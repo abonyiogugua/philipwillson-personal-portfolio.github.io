@@ -4,6 +4,8 @@ body {
   color: #fff;
   position: relative;
   background: transparent;
+  background: #040404 url("/assets/img/bg1.png") top right no-repeat;
+  background-size: cover;
 }
 
 body::before {
